@@ -43,7 +43,7 @@ Shoppyglobe is a responsive E commerce website made with React and redux. It hav
 
 **Styling:** CSS and Media Queries for Responsiveness
 
-**Fetched Data:** Using Dummyjson Products
+**Fetched Data:** Using Dummyjson Products API
 
 
 ## Support
