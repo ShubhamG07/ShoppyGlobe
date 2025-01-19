@@ -9,7 +9,7 @@ Shoppyglobe is a responsive E commerce website made with React and redux. It hav
 - Product Browsing : Browse a wide range of products fetched from an external api
 - Product details : See details of an individual page which have add to cart option , on adding in cart it shows go to cart
 - Add to cart : Each Product card on Every Component have a add to cart option, on clicking on it it shows added in cart on product and also item added in cart.
-- Cart Functionality : Cart have functionality of modifying quantity for each item and also remove item button for removing item from cart.
+- Cart Functionality : Cart have functionality of modifying quantity for each item and also remove item button for removing item from cart. Also it doesn't let you add more items than available stock of each item.
 - Checkout  : In Checkout we have final details like Name , phone no., address , payment method.
 - Payment Method check : In checkout when someone chooses a payment method it shows input for that accordingly ( for eg. card details or Upi) and verify it pattern also. 
 - Responsiveness : The site is responsive for all devices like laptop, tablet or mobile.
